@@ -12,4 +12,7 @@ public class GlobalConstant {
 	public static final String JMS = "JMS";
 	public static final String KAFKA = "KAFKA";
 	public static final String VALIDATION = "VALIDATION";
+	
+	public static final String MICROSERVICENAME = "microServiceName";
+	public static final String MICROSERVICEPATH = "microServicePath";
 }
